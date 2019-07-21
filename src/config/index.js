@@ -5,6 +5,7 @@ export default {
     arrowIcon: require("../../assets/arrow.png")
   },
   styleConstants: {
-    rowHeight: 50
+    rowHeight: 50,
+    width: 100 + "%"
   }
 };
